@@ -4,13 +4,13 @@ This fitness application is a workout tool that helps users structure their own 
 
 ## Technologies:
 
-| Backend      | Frontend    |
-| ------------ | ----------- |
-| TypeScript   | TypeScript  |
-| NodeJS       | ReactJS     |
-| ExpressJS    | MaterialUI  |
-| InversifyJS  |             |
-| MongoDB      |             |
+|      Backend         |     Frontend       |
+|      -----------     |     ----------     |
+|      TypeScript      |     TypeScript     |
+|      NodeJS          |     ReactJS        |
+|      ExpressJS       |     MaterialUI     |
+|      InversifyJS     |                    |
+|      MongoDB         |                    |
 
 ### API
 
