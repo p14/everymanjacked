@@ -1,9 +1,9 @@
-[submodule "everymanjacked-api"]
-	path = everymanjacked-api
-	url = https://github.com/p14/everymanjacked-api
-[submodule "everymanjacked-client"]
-	path = everymanjacked-client
-	url = https://github.com/p14/everymanjacked-client
-[submodule "everymanjacked-cms"]
-	path = everymanjacked-cms
-	url = https://github.com/p14/everymanjacked-cms
+[submodule "api"]
+	path = api
+	url = git@github.com:p14/everymanjacked-api.git
+[submodule "client"]
+	path = client
+	url = git@github.com:p14/everymanjacked-client.git
+[submodule "cms"]
+	path = cms
+	url = git@github.com:p14/everymanjacked-cms.git
